@@ -1,4 +1,4 @@
-## Final DS Project: Phone Price Analysis
+## Data Science Project: Phone Price Analysis
 
 ### Madison Mina & Dimas Monte
 
